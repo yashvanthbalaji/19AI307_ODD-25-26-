@@ -3,12 +3,10 @@
 ## QUESTION:
 Write a Java program to implement the **Abstract Factory Design Pattern** to create UI components (Button and Checkbox) for different themes.
 
----
 
 ## AIM:
 To write a Java program to demonstrate the **Abstract Factory Design Pattern** by creating related objects without specifying their concrete classes.
 
----
 
 ## ALGORITHM :
 1. Start the program.  
